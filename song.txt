@@ -6,3 +6,5 @@ first commit in feature
 second commit in feature
 third commit in feature
 fourth commit in feature
+
+changes from feature
